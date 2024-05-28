@@ -14,7 +14,8 @@ To install the fb-modal-oc-lib at the root of the application, run
 npm install fb-modal-oc-lib
 ```
 
-You are need this version color : <span style="color: #FF0000"> v20.10.0 </span>for this project
+- You are need this version of node.js : <span style="color: #FF0000"> v20.10.0 </span>for this project
+- You are need this version of react.js : <span style="color: #FF0000"> v18.2.0 </span>for this project
 
 To import the modal component into your application, import it at the root of the selected page.
 
