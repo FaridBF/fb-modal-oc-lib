@@ -62,4 +62,4 @@ const handleCloseModal = () => {
 
 <span style="color:  #ADD8E6">Visual illustrations of the “modal component library” interface</span>
 
-<img src ="./assets/illustrationReadMe/modal-librairie.png" title = "modal component library" alt = "modal component library" />
+<img src ="https://github.com/FaridBF/fb-modal-oc-lib/blob/main/assets/illustrationReadMe/modal-librairie.png" title = "modal component library" alt = "modal component library" />
