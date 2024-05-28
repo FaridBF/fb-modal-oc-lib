@@ -1,0 +1,30 @@
+{
+  "name": "fb-modal-oc-lib",
+  "version": "1.0.5",
+  "description": "Un composant modal react",
+  "author": "Bouras Farid",
+  "keywords": [
+    "React",
+    "JavaScript",
+    "Frontend",
+    "organization",
+    "employees",
+    "management",
+    "files"
+  ],
+  "main": "dist/app.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "build": "babel ./ --out-dir dist"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.24.1",
+    "@babel/core": "^7.24.4",
+    "@babel/preset-react": "^7.24.1"
+  }
+}
